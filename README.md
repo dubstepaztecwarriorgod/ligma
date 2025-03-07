@@ -6,6 +6,12 @@ Ligma is one of the first ever human readable and writable image formats that is
 It follows the philosphy that images should be simple and easy to write and read, that's why every pixel in a ligma image is just the name of the color!
 Yup that's it, just type up the image you want in a valid square or rectangle and you're golden!
 
+## How do I use ligma?
+
+Simply clone this repo and whatever you need for raylib to work then use `cargo run <Path to ligma file>`
+
+Currently ligma can only use red green and blue pixels too
+
 ## Features 
 | Features    |        |
 |-------------|--------|
