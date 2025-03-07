@@ -20,6 +20,7 @@ Currently ligma can only use red green and blue pixels too
 | Animation   |   ❌   |
 | Metadata    |   ❌   |
 | Color Depth |   ❌   |
+| Written in rust |   ✅  |
 
 ## Example
 
